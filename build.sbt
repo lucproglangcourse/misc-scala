@@ -6,5 +6,5 @@ libraryDependencies ++= Seq(
   "org.scala-lang.modules" %% "scala-parser-combinators" % "2.4.0",
   "com.novocode"           %  "junit-interface"          % "0.11"   % Test,
   "org.scalatest"          %% "scalatest"                % "3.2.20" % Test,
-  "org.scalacheck"         %% "scalacheck"               % "1.18.0" % Test
+  "org.scalacheck"         %% "scalacheck"               % "1.20.0" % Test
 )
